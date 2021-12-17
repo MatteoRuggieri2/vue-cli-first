@@ -12,7 +12,7 @@ export default {
 };
 </script>
 
-<style scoped lang="scss">
+<style scoped>
 h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
